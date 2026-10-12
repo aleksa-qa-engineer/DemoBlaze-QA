@@ -1,4 +1,4 @@
-# TC-012 — Remove product from cart
+# TC-013 — Remove product from cart
 ## Основная информация
 
 - **ID:** TC-012
